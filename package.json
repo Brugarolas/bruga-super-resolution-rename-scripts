@@ -1,0 +1,29 @@
+{
+  "name": "bruga-super-resolution-rename-scripts",
+  "version": "1.0.0",
+  "description": "Some super resolution utils to rename the files created by Topaz Gigapixel and VanceAI",
+  "main": "rename_png_noname.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/bruga-super-resolution-rename-scripts"
+  },
+  "keywords": [
+    "superresolution",
+    "rename",
+    "gigapixel",
+    "topaz",
+    "utils",
+    "vance",
+    "vanceai",
+    "topazgigapixel",
+    "image",
+    "images",
+    "png",
+    "pngs"
+  ],
+  "author": "Andrés Brugarolas Martínez",
+  "license": "ISC"
+}

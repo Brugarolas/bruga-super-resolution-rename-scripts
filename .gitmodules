@@ -1,0 +1,27 @@
+[submodule "modules/external/promise-cpp"]
+	path = modules/external/promise-cpp
+	url = https://github.com/xhawk18/promise-cpp
+[submodule "modules/external/uvw"]
+	path = modules/external/uvw
+	url = https://github.com/skypjack/uvw.git
+[submodule "modules/external/libuv"]
+	path = modules/external/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "modules/external/concurrencpp"]
+	path = modules/external/concurrencpp
+	url = https://github.com/David-Haim/concurrencpp.git
+[submodule "modules/external/stdgpu"]
+	path = modules/external/stdgpu
+	url = https://github.com/stotko/stdgpu.git
+[submodule "modules/external/polybar"]
+	path = modules/external/polybar
+	url = https://github.com/polybar/polybar.git
+[submodule "modules/external/libvips"]
+	path = modules/external/libvips
+	url = https://github.com/libvips/libvips.git
+[submodule "modules/external/FTXUI"]
+	path = modules/external/FTXUI
+	url = https://github.com/ArthurSonzogni/FTXUI.git
+[submodule "modules/external/arrayfire"]
+	path = modules/external/arrayfire
+	url = https://github.com/arrayfire/arrayfire.git
